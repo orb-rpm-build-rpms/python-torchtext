@@ -1,5 +1,5 @@
 %global pypi_name torchtext
-%global pypi_version 0.17.1
+%global pypi_version 0.18.0
 
 Name:           python-%{pypi_name}
 Version:        %{pypi_version}
